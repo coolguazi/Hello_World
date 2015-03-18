@@ -7,6 +7,8 @@ int main()
     printf("%d\n", 2+3);
 	printf("%f\n", 1032+2.33);
 	printf("%s\n", Name);
+	printf("%c\n", Name[5]);
+	printf("%s\n", Name+5);
 	return 123;
 }
 
